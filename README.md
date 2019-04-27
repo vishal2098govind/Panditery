@@ -1,4 +1,4 @@
-# Panditery: Book pandits online based on their ratings and valid certification
+# Panditery: Book valid and certified pandits 
 
 Now you can book pandits online leaving the certification of the pandits to us and choosing the pandits from their ratings at our websites given by our users.
 
